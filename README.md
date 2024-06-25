@@ -1,3 +1,7 @@
+# foundationapp front-end
+Jobsity challenge
+
+## Technologies used
 React and Javascript
 
 ## Project setup instructions
