@@ -16,7 +16,6 @@ const useNonprofitPage = () => {
     }
 
     const handleSave = () => {
-        console.log('tableData: ',tableData);
         mutateAsync(tableData);
         setTableData(initialState);
         document.getElementById('name').focus();
